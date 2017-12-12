@@ -1,2 +1,2 @@
-# zever-solar-inverter-status
-Simple scripts that reads various metrics fronm a network connected Zever Solar inverter. 
+# Zever Solar Inverter Metrics
+Simple scripts that reads various metrics from a network connected Zever Solar inverter. 
